@@ -68,7 +68,7 @@ DOMAIN-SUFFIX,medium.com
 DOMAIN-SUFFIX,substack.com
 
 # --- SOCIAL & PROFESSIONAL ---
-DOMAIN-SUFFIX,linkedin.com
+DOMAIN-KEYWORD,linkedin
 DOMAIN-SUFFIX,licdn.com
 
 # --- CLOUDFLARE SERVICES ---
