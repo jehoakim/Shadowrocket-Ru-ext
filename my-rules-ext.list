@@ -66,3 +66,21 @@ DOMAIN-SUFFIX,svt.se
 DOMAIN-SUFFIX,yle.fi
 DOMAIN-SUFFIX,medium.com
 DOMAIN-SUFFIX,substack.com
+
+# --- SOCIAL & PROFESSIONAL ---
+DOMAIN-SUFFIX,linkedin.com
+DOMAIN-SUFFIX,licdn.com
+
+# --- CLOUDFLARE SERVICES ---
+DOMAIN-SUFFIX,cloudflare.com
+DOMAIN-SUFFIX,cloudflareone.com
+DOMAIN-SUFFIX,cloudflareclient.com
+DOMAIN-SUFFIX,cloudflareportal.com
+DOMAIN-SUFFIX,cloudflare-dns.com
+
+# --- STREAMING & MUSIC ---
+DOMAIN-SUFFIX,spotify.com
+DOMAIN-SUFFIX,scdn.co
+DOMAIN-SUFFIX,spotifycdn.com
+DOMAIN-SUFFIX,spotifycdn.net
+DOMAIN-SUFFIX,spoti.fi
