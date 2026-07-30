@@ -84,5 +84,12 @@ DOMAIN-SUFFIX,scdn.co
 DOMAIN-SUFFIX,spotifycdn.com
 DOMAIN-SUFFIX,spotifycdn.net
 DOMAIN-SUFFIX,spoti.fi
+# --- DIFFERENT ---
 DOMAIN-KEYWORD,lostfilm
-
+DOMAIN-KEYWORD,nnmclub
+DOMAIN-SUFFIX,io
+DOMAIN-SUFFIX,es
+DOMAIN-SUFFIX,idealista.com
+DOMAIN-SUFFIX,realitica.com
+DOMAIN-SUFFIX,nekretnine.co.me
+DOMAIN-SUFFIX,ge
