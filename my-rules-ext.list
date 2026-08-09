@@ -84,6 +84,13 @@ DOMAIN-SUFFIX,scdn.co
 DOMAIN-SUFFIX,spotifycdn.com
 DOMAIN-SUFFIX,spotifycdn.net
 DOMAIN-SUFFIX,spoti.fi
+
+# --- Koshelek ---
+DOMAIN-SUFFIX,ledger.com,
+DOMAIN-SUFFIX,ledgerwallet.com,
+DOMAIN-SUFFIX,ledger.fr,
+DOMAIN-SUFFIX,api.ledgerwallet.com
+
 # --- DIFFERENT ---
 DOMAIN-KEYWORD,lostfilm
 DOMAIN-KEYWORD,nnmclub
