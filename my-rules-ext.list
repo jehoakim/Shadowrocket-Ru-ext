@@ -100,3 +100,14 @@ DOMAIN-SUFFIX,idealista.com
 DOMAIN-SUFFIX,realitica.com
 DOMAIN-SUFFIX,nekretnine.co.me
 DOMAIN-SUFFIX,ge
+# --- Copart Split Tunneling ---
+DOMAIN-SUFFIX,copart.com,PROXY
+DOMAIN-SUFFIX,copartimages.com,PROXY
+DOMAIN-SUFFIX,g2copart.com,PROXY
+DOMAIN-SUFFIX,copart.io,PROXY
+DOMAIN-SUFFIX,copart.co.uk,PROXY
+DOMAIN-SUFFIX,copart.de,PROXY
+DOMAIN-SUFFIX,copart.es,PROXY
+DOMAIN-SUFFIX,copart.ca,PROXY
+DOMAIN-SUFFIX,copart.ae,PROXY
+DOMAIN-KEYWORD,copart,PROXY
