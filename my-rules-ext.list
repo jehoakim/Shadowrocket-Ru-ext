@@ -197,3 +197,10 @@ DOMAIN-SUFFIX,msftstatic.com
 DOMAIN-SUFFIX,msecnd.net
 DOMAIN-SUFFIX,s-microsoft.com
 DOMAIN-SUFFIX,akamaized.net
+# Brawl Stars
+DOMAIN-KEYWORD,supercell,PROXY
+DOMAIN-KEYWORD,brawlstars,PROXY
+DOMAIN-SUFFIX,supercell.com,PROXY
+DOMAIN-SUFFIX,brawlstarsgame.com,PROXY
+DOMAIN-SUFFIX,supercellid.com,PROXY
+
